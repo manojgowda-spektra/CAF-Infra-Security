@@ -131,7 +131,7 @@ In this task, you will test IDPS for HTTP traffic.
     
 1. Under the **Add a rule collection** page, enter the details below:
 
-    - Name: **afw-contoso-prod-firewall-rulecolection (1)**
+    - Name: **afw-contoso-prod-firewall-rulecollection (1)**
     - Rule Collection type: **DNAT (2)**
     - Priority: **100 (3)**
     - Rule collection group: **DefaultDnatRuleCollectionGroup (4)**
@@ -332,7 +332,7 @@ In this task, you will create an application rule to allow access to sports webs
 
       >**Note:** If the TLS deployment fails, please delete the **Managed Identity** and **Key Vault** from the resource group, then retry the deployment. What usually happens is that during deployment, the Key Vault and Managed Identity are created, and permissions are assigned to the Managed Identity. Occasionally, due to slight delays on Azure’s side, these permissions might take a little longer to apply, which can cause the deployment to fail. Retrying usually resolves the issue smoothly.
 
-1. Perform these steps if TLS Inspection still fails after deleting the Managed Identity and Key Vault, if its succeeded then proceed to step 17.
+1. Perform these steps if TLS Inspection still fails after deleting the Managed Identity and Key Vault, if it succeeded, then proceed to step 17.
 
     ![](images/tlseror1.png)
 

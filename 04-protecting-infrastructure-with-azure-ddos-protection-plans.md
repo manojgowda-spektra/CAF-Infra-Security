@@ -2,9 +2,7 @@
 
 ### Estimated Duration: 60 Minutes
 
-## Overview
-
-## What is DDoS protection?
+## Overview: What is DDoS protection?
 
 Distributed denial of service (DDoS) attacks are some of the largest availability and security concerns facing customers who are moving their applications to the cloud. A DDoS attack attempts to exhaust an application's resources, making the application unavailable to legitimate users. DDoS attacks can be targeted at any endpoint that is publicly reachable through the Internet.
 
@@ -38,7 +36,7 @@ In this task, you will create a DDoS protection plan to protect the virtual netw
  
     ![](images/E4T1S2.png)
  
-1. On the **DDoS protection** page, provide the information as mentioned below,
+1. On the **DDoS protection** page, provide the information as mentioned below:
 
    - Subscription: **Leave it as default (1)**.
 
@@ -66,7 +64,7 @@ In this task, you will create a DDoS protection plan to protect the virtual netw
  
       ![](images/ddadd.png)
 
-1. On the **Add virtual network to DDoS plan** blade, provide the information as mentioned below,
+1. On the **Add virtual network to DDoS plan** blade, provide the information as mentioned below:
     
     - Subscription: **Leave it as default (1)**.
     
@@ -129,7 +127,7 @@ In this task, you will explore and visualize the metrics using various kinds of 
 
     ![](images/infra-app-security-lab1-43.png)
 
-1. Under **Metric**, select **Inbound SYN packets to trigger DDoS mitigation** then under **Aggregation**, select type as **Count** and click on **blue tick (1)** to add
+1. Under **Metric**, select **Inbound SYN packets to trigger DDoS mitigation** then under **Aggregation**, select type as **Count** and click on the **Blue tick (1)** to add.
   
      ![](images/E4T3S4.png)
 

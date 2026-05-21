@@ -28,9 +28,9 @@ In this task, you will review and monitor the NSG flow logs in the Traffic Analy
 
    ![](images/nw30.png)
    
-   > **Note:** If you observe the Time interval is greyed out, click on Meanwhile, click here to see just resource data and perform the above step.
+   > **Note:** If you observe the **Time interval** is greyed out, click on **"Meanwhile, click here to see just resource data"** and perform the above step.
    
-   > It may take up to 30 to 60 minutes to click on **Meanwhile, click here to see just resource data and perform the above step option to come up**.
+   > It may take up to 30 to 60 minutes for the **"Meanwhile, click here to see just resource data"** option to appear.
 
       ![](images1/timeinterval-1.png)
       
@@ -56,7 +56,7 @@ In this task, you will review and monitor the NSG flow logs in the Traffic Analy
 
     ![](images/081025(16).png)
      
-1. To close the **Traffic Analytics Geo Map View**, click on the cross at the top right corner.
+1. To close the **Traffic Analytics Geo Map View**, click on the **Cross (X)** icon at the top right corner.
 
      ![close](images1/close-1.png)
       

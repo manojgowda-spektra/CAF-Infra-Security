@@ -35,7 +35,7 @@ In this task, you'll explore Azure Monitor and examine the resource health of va
 
    ![](images/E1T1S3.png "search gateway")
 
-   >**Note:** Sometimes It may take time to show the healthly(green bar) status of the resorces as shown. Please try to do **refresh**. 
+   >**Note:** Sometimes it may take some time to show the healthy (green bar) status of the resources as shown. Please click on **Refresh**.
 
 1. In this, each tile represents a resource's health. The tile displays the number of instances of that resource health deployed across all selected subscriptions. 
 
@@ -139,6 +139,8 @@ In this task, you will create Virtual network flow logs and these configurations
 
 1. From the list of resources, select the Network Security Group named **FirewallVM-nsg**.
 
+   > **Note:** If you can't find the resource, go to the next page and select it.
+
     ![](images/fvnsg.png)
 
 1. Under **Monitoring** section, select **NSG flow logs (1)** and Click on **+ Create (2)** button.
@@ -182,6 +184,8 @@ In this task, you will create Virtual network flow logs and these configurations
     ![](images/fvrg.png)
 
 1. From the list of resources, select the Network security group named **FirewallVM-nsg**.
+
+   > **Note:** If you can't find the resource, go to the next page and select it.
 
     ![](images/fvnsg.png)
 
